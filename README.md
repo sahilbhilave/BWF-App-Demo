@@ -21,7 +21,10 @@ Or use my dummy account <br>
 <br>
 The apk was not published to playstore because the organization wanted to use the app internally and not make it public.
 <br><br>
-If you don't trust my unsecure apk or website you can view my linkedin post https://www.linkedin.com/posts/sahilbhilave_fullstackdevelopment-impactfulprojects-flutter-activity-7182684785964703744-fSkt?utm_source=share&utm_medium=member_desktop
-
-**You may notice the DiscreteConsultants logo in both the app and web interface. It represents the sub-organization under Borderless World Foundation (BWF)
-They told me to write the app and website under that logo.
+If you don't trust my unsecure apk or website you can view my linkedin post, which has my offer letter and project screenshots <br>
+https://www.linkedin.com/posts/sahilbhilave_fullstackdevelopment-impactfulprojects-flutter-activity-7182684785964703744-fSkt?utm_source=share&utm_medium=member_desktop
+<br><br>
+You may notice the DiscreteConsultants logo in both the app and web interface. It represents the sub-organization under Borderless World Foundation (BWF)
+They told me to write the app and website under that logo. It is a corporate office in J&K.
+<br><br>
+Borderless World Foundation : https://www.borderlessworldfoundation.org/

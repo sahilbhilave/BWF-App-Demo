@@ -1,16 +1,23 @@
-# demo
+# BWF App Demo
+This is my unofficial implementation of the LifeLineTracker App which i had developed for Borderless World Foundation.
+I hosted the project on my own free server http://watertank.mooo.com 
+I made this server for my water tank measurement IOT project.
 
-A new Flutter project.
 
-## Getting Started
+# Files
+**Apk File** : https://drive.google.com/file/d/1dX40JvbSjQ_gxDK1UcIb9Ixs-tPKhjaj/view?usp=sharing
+**Web Admin** : http://watertank.mooo.com/BWF/index.php    (No SSL)
+For web admin
+Username : admin@123
+Password : 1234
 
-This project is a starting point for a Flutter application.
+For apk
+You can register your own account.
+Or use my dummy account
+username : sahilbhilave
+password : 1234
+*From this account i have synchronized 2 kit delivery data
 
-A few resources to get you started if this is your first Flutter project:
+The apk was not published to playstore because the organization wanted to use the app internally and not make it public.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you don't trust my unsecure apk or website you can view my linkedin post https://www.linkedin.com/posts/sahilbhilave_fullstackdevelopment-impactfulprojects-flutter-activity-7182684785964703744-fSkt?utm_source=share&utm_medium=member_desktop
